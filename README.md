@@ -1,2 +1,2 @@
 # Grade-11-Code
-All grade 11 python code I wrote for the class of 2017.
+This repository contains all Python code written for the 2016 class of computer science at my highschool, GRCI.
