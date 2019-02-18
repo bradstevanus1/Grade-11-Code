@@ -1,2 +1,2 @@
-# Grade-11-Code
-This repository contains all Python code written for the 2016 class of computer science at my highschool, GRCI.
+# The game of Hangman
+Contains code written for a game of hangman, assigned by Mr. Contonis himself in the grade 11 CS course.
